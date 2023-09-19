@@ -1,0 +1,6 @@
+1:Allow for the user to register an  account.
+2:Allow for the user to login.
+3:Allow for the user to deposit money|update file.
+4:Allow for the user to withdraw money| update file.
+5:Allow for the user to view balance and personal details.
+6:Allow for the user to edit personal details.
